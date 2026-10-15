@@ -1,0 +1,68 @@
+Smart Study Session Planner
+About the Project:
+Smart Study Session Planner is a Python-based application designed to help students organize their daily study schedules, manage academic tasks, track progress, and prepare for upcoming examinations.
+The project uses a simple menu-driven interface and provides essential study-management features.
+
+ Features
+ User Authentication: Sign up and log in.
+ Subject Management: Add subjects and set daily study times.
+ Daily Study Plan: View planned study sessions.
+ Study Timer: Track study sessions with a countdown timer.
+ Break Timer: Manage break periods.
+ Task Management: Add, view, and complete tasks.
+ Progress Tracking: Calculate task completion percentage.
+ Exam Countdown: View the number of days remaining until exams.
+ Study Rescheduling: Update study time for a subject.
+ Email Reminder Demo: Enter an email address to demonstrate the reminder option.
+ Settings: Set a daily study goal or break duration.
+
+Technologies Used
+- Python
+- Python "time" module
+- Functions, loops, and conditional statements
+- Lists and dictionaries
+- Basic user authentication
+- String formatting
+
+How to Run:
+
+Prerequisites
+Install Python 3 on your computer.
+
+Steps
+1. Clone the repository:
+   git clone https://github.com/kanchupillarenukadevi/smart-study-session-planner.git
+
+2. Open the project directory:
+   cd smart-study-session-planner
+
+3. Run the application:
+   python main.py
+   On some systems, use:
+   python3 main.py
+
+4. Create an account and log in to explore the features.
+ Project Structure
+smart-study-session-planner/
+│
+├── main.py
+├── README.md
+└── .gitignore
+
+Project Objective
+The objective is to build a simple study-planning tool that encourages students to manage their time, organize academic responsibilities, and monitor their daily progress.
+
+Future Improvements
+- Store user information and tasks using a database.
+- Develop a graphical user interface.
+- Implement real email notifications.
+- Generate personalized study schedules based on exam dates and subject priorities.
+- Add study history and analytics.
+- Improve input validation and password security.
+
+👩‍💻 Developed By
+Renuka Devi Kanchupilla
+
+B.Tech Student | Artificial Intelligence and Data Science 
+
+Built with Python to make study planning simpler and more organized.
